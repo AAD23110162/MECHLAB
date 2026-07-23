@@ -1,5 +1,7 @@
 # MECHLAB
 
+Link de acceso online al simulador: https://aad23110162.github.io/MECHLAB/
+
 Simulador interactivo de sistemas mecánicos con enfoque en modelado dinámico, análisis de control y simulación temporal.
 
 La aplicación permite construir sistemas traslacionales, rotacionales y de péndulo directamente sobre un lienzo SVG, configurar parámetros físicos y obtener de forma automática:
