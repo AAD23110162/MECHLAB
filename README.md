@@ -1,5 +1,9 @@
 # MECHLAB
 
+<video src="./Video/Funcionamiento.mp4" controls playsinline width="100%">
+	Tu navegador no puede reproducir el video. Puedes abrirlo directamente en [Video/Funcionamiento.mp4](Video/Funcionamiento.mp4).
+</video>
+
 Link de acceso online al simulador: https://aad23110162.github.io/MECHLAB/
 
 Simulador interactivo de sistemas mecánicos con enfoque en modelado dinámico, análisis de control y simulación temporal.
