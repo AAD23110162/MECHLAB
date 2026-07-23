@@ -137,6 +137,15 @@ El selector Cargar ejemplo… incluye los siguientes casos de estudio:
 - Pendulo - cuadruple (4 eslabones): caso de alta complejidad dinámica para explorar sensibilidad y oscilaciones acopladas.
 - Pendulo - simple forzado (torque senoidal): péndulo simple con excitación periódica para analizar respuesta forzada.
 
+## Galería
+
+![Galería 1](./Images/IM1.PNG)
+![Galería 2](./Images/IM2.PNG)
+![Galería 3](./Images/IM3.PNG)
+![Galería 4](./Images/IM4.PNG)
+![Galería 5](./Images/IM5.PNG)
+![Galería 6](./Images/IM6.PNG)
+
 ## Entradas y señales soportadas
 
 - Formas de onda de entrada:
